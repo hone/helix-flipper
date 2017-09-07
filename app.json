@@ -5,7 +5,6 @@
   "repository": "https://github.com/tildeio/helix-flipper",
   "keywords": ["ruby", "rails", "rust", "helix"],
   "buildpacks": [
-    { "url": "https://github.com/hone/heroku-buildpack-rust" },
     { "url": "heroku/ruby" }
   ]
 }
